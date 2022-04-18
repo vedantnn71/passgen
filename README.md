@@ -11,4 +11,5 @@ Or in Windows, just git clone the repo and add main.py to the path.
 ## Usage
 After the installation you can run the `passgen` command and enter the strength of password to generate, and the random strong password will come to your terminal/command prompt.
 
-![Passgen](./recording.mov
+
+https://user-images.githubusercontent.com/70624701/163806089-c6511bcc-e135-48e1-bcec-afa7a2fa2d68.mp4
