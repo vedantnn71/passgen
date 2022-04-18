@@ -3,7 +3,7 @@ A simple & minimal password generator written in python.
 ## Installation
 To install this program on linux, copy the main.py file to ~/.local/bin/passgen or /usr/bin/passgen (it's safe).
 ```bash 
-$ git clone <repo of project>
+$ git clone https://github.com/vedantnn71/passgen
 # cp ./passgen/main.py /usr/bin/passgen
 ```
 Or in Windows, just git clone the repo and add main.py to the path.
